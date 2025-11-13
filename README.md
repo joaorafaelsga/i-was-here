@@ -16,16 +16,16 @@ Um dos exercícios é **colaborativo em grupo**, simulando um fluxo mais próxim
 
 ## 📂 Estrutura
 
-- `exercicios/01-perfil-markdown/`  
+- `exercicios/exercicio-01` - perfil markdown  
   Primeiro contato: marque a sua presença ao criar um arquivo Markdown com um mini perfil.
 
-- `exercicios/02-recife-tech-story/`  
+- `exercicios/exercicio-02` - recife tech story  
   Criar um pequeno texto sobre tecnologia, inovação ou cultura digital em Recife.
 
-- `exercicios/03-lista-tecnologias/`  
+- `exercicios/exercicio-03` - lista tecnologias  
   Montar uma lista de tecnologias que você quer aprender, em Markdown.
 
-- `exercicios/04-colaboracao-em-grupo/`  
+- `exercicios/exercicio-04` - colaboracao em grupo  
   Exercício especial de colaboração com o grupo de Projeto 1: um membro do grupo será “dono” de um fork, e os demais contribuirão nesse fork, simulando PRs internos do time antes de enviar o resultado consolidado para o repositório do professor.
 
 Cada pasta possui um `README.md` com a descrição detalhada do exercício.
