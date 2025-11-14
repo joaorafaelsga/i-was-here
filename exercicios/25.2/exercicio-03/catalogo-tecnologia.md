@@ -48,3 +48,4 @@
 
 - Unity - exemplo
 - React - exemplo
+- Jungle - sofiavillelav@gmail.com
